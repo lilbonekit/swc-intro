@@ -1,0 +1,17 @@
+{
+  "name": "swc",
+  "version": "1.0.0",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@swc/cli": "^0.4.1-nightly.20240914",
+    "@swc/core": "^1.7.39",
+    "chokidar": "^3.6.0"
+  }
+}
